@@ -1,0 +1,22 @@
+# echo - repeats the input
+# whoami - prints the current user
+# id - get some more user information about the current user
+# id (username) - get some more user information about the specified user
+# pwd - prints working directory
+# ls ~ - lists the files in the home directory
+# ls -l - lists the files in the current directory with more details
+# ls -a - lists all files in the current directory including hidden files
+# ls -la ~ - lists all files in the home directory including hidden files
+# ls -la (repositoryname) - lists the file with more details
+# touch - creates an empty file
+
+# hidden files in linux start with a dot (.)
+
+# mkdir - creates a directory
+# cp (source) (destination) - copies a file
+# cp -r (source) (destination) - copies a directory
+# mv (source) (destination) - moves a file/folder
+# rm (filename) - removes a file
+# rm -r (directoryname) - removes a directory
+
+# rm -i (filename) - removes a file with confirmation, here i = interactive
