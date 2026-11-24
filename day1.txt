@@ -20,3 +20,11 @@
 # rm -r (directoryname) - removes a directory
 
 # rm -i (filename) - removes a file with confirmation, here i = interactive
+
+# apt - advanced package tool, used to install packages
+# apt update - updates the package list
+# apt upgrade - upgrades the packages
+# apt install (packagename) - installs a package
+# apt remove (packagename) - removes a package
+# apt autoremove - removes unused packages
+

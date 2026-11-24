@@ -1,0 +1,27 @@
+# sudo -i - switch to root user
+# exit - exit from root user
+
+# $PATH - used to get the location of the commands to execute
+# absolute path - path of the file
+
+# Linux Root directory
+# /bin - user commands
+# /sbin - system commands
+# /etc - configuration files
+# /home - user home directories
+# /root - root user home directory
+# /usr - user programs
+# /var - variable files
+# /tmp - temporary files
+# /dev - device files
+# /proc - process information
+# /sys - system information
+# /media - removable media devices
+# /mnt - mount points
+# /opt - optional software packages
+# /srv - service data
+# /boot - boot loader files
+# /lib - system libraries
+# /lib64 - 64-bit system libraries
+# /lost+found - recovered files
+# /media - removable media devices
