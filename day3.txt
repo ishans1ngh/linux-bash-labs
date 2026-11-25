@@ -1,0 +1,22 @@
+# groupadd <groupname> - creates a group
+# groupdel <groupname> - deletes a group
+# usermod -aG <groupname> <username> - adds a user to a group
+
+# ssh (username)@(ipaddress) - connects to a remote server
+
+# vim (filename) - opens a file in the vim editor
+# i - enters insert mode
+# esc - exits insert mode
+# :wq! - saves and exits with force
+
+# sudo chown (username):(groupname) (filename) - changes the owner and group of a file
+# sudo chown (username) (filename) - changes the owner of a file
+# sudo chown :(groupname) (filename) - changes the group of a file
+
+# mkdir -p (parent directory)/(child directory) - creates a directory and parent directory if it doesn't exist
+# echo "Hello, world" > new-dir/file1.txt creates a file named file1.txt inside the new-dir directory and writes the text "Hello, world" into it. The > symbol is used for redirection; it takes the output of the echo command and redirects it into the specified fil
+
+# sudo chmod 700 (filename) - changes the permissions of a file
+# 700 means read, write, and execute for the owner, and no permissions for the group and others
+# read = 4, write = 2, execute = 1
+

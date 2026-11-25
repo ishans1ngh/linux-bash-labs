@@ -25,3 +25,8 @@
 # /lib64 - 64-bit system libraries
 # /lost+found - recovered files
 # /media - removable media devices
+
+# cat (filename) - displays the content of the file
+# cat -n (filename) - displays the content of the file with line numbers
+# head -n(number till where you want to see) (filename) - displays the content of the file till the specified line number
+

@@ -27,4 +27,3 @@
 # apt install (packagename) - installs a package
 # apt remove (packagename) - removes a package
 # apt autoremove - removes unused packages
-
